@@ -1,0 +1,10 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-radius: 100%;
+    border: groove 20px blue;
+    background-image: url("../000_img/1612.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
